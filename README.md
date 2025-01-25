@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif"  />
+<img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif"  />
 <div align="left">
 
 <p align="left">✨ Creating bugs since I wrote my first line of code.  <br>📚 I'm currently learning .NET and Angular.  <br>🎯 Goals: Master full stack development and contribute to open-source.  <br>🎲 Fun fact: Debugging is both the crime and the solution!</p>
