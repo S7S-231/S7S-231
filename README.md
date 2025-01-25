@@ -26,9 +26,12 @@
 </div>
 
 ###
+<div algin="center">
 
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif](https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif)"  />
+  
 <p align="left">✨ Creating bugs since I wrote my first line of code.  <br>📚 I'm currently learning .NET and Angular.  <br>🎯 Goals: Master full stack development and contribute to open-source.  <br>🎲 Fun fact: Debugging is both the crime and the solution!</p>
-
+</div>
 ###
 
 <h2 align="left">I code with</h2>
@@ -63,6 +66,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+
+  
+  <br clear="both">
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+  
 </div>
 
 ###
