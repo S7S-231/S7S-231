@@ -46,10 +46,33 @@ I specialize in building scalable ERP systems and enterprise applications using 
 </p>
 
 ---
-
+<div align="center">
 <h2 align="left">🛠 Tech Stack</h2>
 
-![Tech Stack](https://skillicons.dev/icons?i=java,spring,dotnet,angular,ts,js,oracle,mysql,postgres,git,jenkins,postman,docker,jira,idea,vscode,visualstudio,eclipse&perline=18)
+<table>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,springsecurity,springdatajpa,hibernate,dotnet,apache"/></td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=angular,ts,js,tailwindcss,blazor"/></td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,sqlserver,mysql,postgres"/></td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,jenkins,postman,docker,jira,npm,swagger,jwt"/></td>
+  </tr>
+  <tr>
+    <td><b>💻 IDEs</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio,netbeans"/></td>
+  </tr>
+</table>
+</div>
+
 ---
 
 <h2 align="left">🔥 Highlights</h2>
